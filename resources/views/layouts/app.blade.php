@@ -53,7 +53,6 @@
 
  <main class="py-8">
      @yield('content')
-
  </main >
 
  <footer class="border-t border-gray-800">
