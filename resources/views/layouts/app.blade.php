@@ -23,7 +23,7 @@
         <img src="" alt="" class="w-32 flex-none">
 
     </a>
-    <ul class="flex">
+    <ul class="flex ml-16">
         <li><a href="#" class="hover:text-gray-400">Games</a> </li>
         <li><a href="#" class="hover:text-gray-400">Review</a> </li>
         <li><a href="#" class="hover:text-gray-400">Comming soon</a> </li>
