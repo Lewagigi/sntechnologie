@@ -16,8 +16,11 @@
 </head>
 
 <body class="bg-gray-900 text-white">
-<header class="border-b , border-gray-800"></header>
-<nav class="container mx-auto flex items-center justify-between px-4 py-6"></nav>
+
+
+
+<header class="border-b , border-gray-800">
+<nav class="container mx-auto flex items-center justify-between px-4 py-6">
 <div class="flex items-center">
     <a href="/">
         <img src="" alt="" class="w-32 flex-none">
@@ -35,6 +38,8 @@
   <div class="flex items-center">
       <div class="relative">
           <input type="text" class="bg-gray-800 text-sm rounded-full focus:outline-none focus shadow-outline sw-64 px-3 py-1 " placeholder="Search">
+           <div class="absolute top-0 flex items-center h-full ml-2">
+
       </div>
       <div class="ml-6">
           <a href=""><img src="avatar.jpg" alt="avatar" class="rounded-full w-8"> </a>
@@ -43,6 +48,20 @@
 
       </div>
   </div>
+</nav>
+</header>
+
+ <main class="py-8">
+     @yield('content')
+
+ </main >
+
+ <footer class="border-t border-gray-800">
+     <div class="container mx-auto px-4 py-6">
+         poyer by <a href="#" class="underline hover:text-gray-400">IGD API</a>
+     </div>
+
+ </footer>
 
 </body>
 
