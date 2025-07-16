@@ -20,13 +20,13 @@
 
 
 <header class="border-b , border-gray-800">
-<nav class="container mx-auto flex items-center justify-between px-4 py-6">
-<div class="flex items-center">
+<nav class="container mx-auto flex flex-col lg:flex-row items-center justify-between px-4 py-6">
+<div class="flex flex-col lg:flex-row items-center">
     <a href="/">
         <img src="" alt="" class="w-32 flex-none">
 
     </a>
-    <ul class="flex ml-16 space-x-8">
+    <ul class="flex ml-0 lg:ml-16 space-x-8 mt-6 lg:mt-0">
         <li><a href="#" class="hover:text-gray-400">Games</a> </li>
         <li><a href="#" class="hover:text-gray-400">Review</a> </li>
         <li><a href="#" class="hover:text-gray-400">Comming soon</a> </li>
@@ -35,7 +35,7 @@
     </ul>
 </div>
 
-  <div class="flex items-center">
+  <div class="flex items-center mt-6 lg:mt-0">
       <div class="relative">
           <input type="text" class="bg-gray-800 text-sm rounded-full focus:outline-none focus shadow-outline sw-64 px-3 py-1 " placeholder="Search">
            <div class="absolute top-0 flex items-center h-full ml-2">

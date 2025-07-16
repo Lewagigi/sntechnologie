@@ -4,7 +4,7 @@
 
     <div class="container mx-auto px-4">
         <h2 class="text-blue-500 uppercase tracking-wide font-semibold">Popular Gray</h2>
-        <div class="popular-games text-sm grid grid-cols-6 gap-12 border-b border-gray-800 pb-16">
+        <div class="popular-games text-sm grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 xl:grid-cols-6  gap-12 border-b border-gray-800 pb-16">
             <div class="game ml-8">
                 <div class="relative inline-block">
                     <a href="#">
@@ -44,7 +44,7 @@
                         <a href="#" class="block text-lg font-semibold leading-tight
                         hover:text-gray-400 mt-4">Final fantasy </a>
                         <div class="text-gray-400 mt-1">Playstation 4
-                            <p class="mt-6 text-gray-400">
+                            <p class="mt-6 text-gray-400 hidden lg:block">
                             lewalibari
                             </p>
 
@@ -64,9 +64,9 @@
         </div>
 
 
-            <div class="flex my-10">
+            <div class="flex flex-col lg:flex-row my-10">
 
-                <div class="recently-reviewd w-3/4 mr-32">
+                <div class="recently-reviewd w-full lg:w-3/4 mr-0 lg:mr-32">
                     kkkkkk lllopppp pooo
                     kkkkk
                 </div>
@@ -109,7 +109,7 @@
          kkkkkk lllopppp pooo
          kkkkk
      </div>
-     <div class="most-ancipated w-1/4 ">
+     <div class="most-ancipated lg:w-1/4 ">
          <h2 class="text-blue-500 uppercase tracking-wide font-semibold">Most anticpatired</h2>
           <div class="most-anticipated-container space-y-10 mt-8">
                <div class="game flex">
