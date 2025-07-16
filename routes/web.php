@@ -4,12 +4,12 @@ use Illuminate\Support\Facades\Route;
 use Livewire\Volt\Volt;
 
 Route::get('/', function () {
-    return view('welcome');
-})->name('home');
-
-route::get('/test', function () {
     return view('index');
 });
+
+//route::get('/test', function () {
+   // return view('index');
+//});
 
 
 Route::view('dashboard', 'dashboard')
