@@ -22,11 +22,12 @@
 
 
                 <a href="#" class="block text-base font-semibold leading-tight hover:text-gray-400 ml-8">
+                    <img src="/img/Capture d’écran 2025-05-28 à 02.14.45.png" alt="games over "   class="hover:opacity-75 transition ease-in-out duration-150">
                     final fantasy
                 </a>
                 <div class="text-gray-400 mt-1">Playstation 4 </div>
 
-                <h1>yyuu</h1>
+
             </div>
 
 
