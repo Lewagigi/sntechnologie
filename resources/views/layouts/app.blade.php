@@ -23,7 +23,7 @@
 <nav class="container mx-auto flex flex-col lg:flex-row items-center justify-between px-4 py-6">
 <div class="flex flex-col lg:flex-row items-center">
     <a href="/">
-        <img src="" alt="" class="w-32 flex-none">
+        <img src="/img/3e30910891ae9ce42d174de99e3de348.jpg" alt="" class="w-32 flex-none">
 
     </a>
     <ul class="flex ml-0 lg:ml-16 space-x-8 mt-6 lg:mt-0">
