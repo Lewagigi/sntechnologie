@@ -42,7 +42,7 @@
 
       </div>
       <div class="ml-6">
-          <a href=""><img src="/img/Capture d’écran 2025-05-28 à 02.14.45.png" alt="avatar" class="rounded-full w-8"> </a>
+          <a href=""><img src="/img/" alt="avatar" class="rounded-full w-8"> </a>
       </div>
 
 
