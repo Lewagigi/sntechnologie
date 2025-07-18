@@ -26,7 +26,7 @@
                 <flux:tooltip :content="__('Repository')" position="bottom">
                     <flux:navbar.item
                         class="h-10 max-lg:hidden [&>div>svg]:size-5"
-                        icon="folder-git-2"
+
                         href="https://github.com/laravel/livewire-starter-kit"
                         target="_blank"
                         :label="__('Repository')"
