@@ -16,31 +16,13 @@
 
 
 
-            
-
-
-                        </div>
-
-                    </div>
-                    <div class="ml-12">
-                        <a href="#" class="block text-lg font-semibold leading-tight
-                        hover:text-gray-400 mt-4">Final fantasy </a>
-                        <div class="text-gray-400 mt-1">Playstation 4
-                            <p class="mt-6 text-gray-400 hidden lg:block">
-                            lewalibari
-                            </p>
-
-                        </div>
 
 
 
-                    </div>
 
-                    <a href="#" class="block text-base font-semibold leading-tight hover:text-gray-400 ml-8">
-                        final fantasy
-                    </a>
-                    <div class="text-gray-400 mt-1">Playstation 4</div>
-                </div>
+
+
+
 
 
         </div>
