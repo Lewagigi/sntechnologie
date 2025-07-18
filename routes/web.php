@@ -7,9 +7,9 @@ Route::get('/', function () {
     return view('index');
 });
 
-//route::get('/test', function () {
-   // return view('index');
-//});
+route::get('/test', function () {
+    return view('welcome');
+});
 
 
 Route::view('dashboard', 'dashboard')
